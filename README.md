@@ -1,4 +1,4 @@
-Hi 👋 My name is Kevin Deakers. I’m a software engineer who loves learning new technologies and meeting new people and flourishes in collaborative environments. I strive to bring compassion, enthusiasm, approachability, and integrity to my team, and I am always looking for opportunities to expand my knowledge and sharpen my skills.  * 🌍  I'm based in Los Angeles * ✉️  You can contact me at [kmdeakers@mac.com](mailto:kmdeakers@mac.com)
+Hi 👋 My name is Kevin Deakers. I’m a software engineer who loves learning new technologies flourishes in collaborative environments. I strive to bring compassion, enthusiasm, approachability, and integrity to my team, and I am always looking for opportunities to expand my knowledge and sharpen my skills.  * 🌍  I'm based in Los Angeles * ✉️  You can contact me at [kmdeakers@mac.com](mailto:kmdeakers@mac.com)
 
 ### Skills  
 
